@@ -1,5 +1,6 @@
-# suitecrm_laravel
+# EGO Sutiecrm - Laravel Portal
 Advanced Open Portal integrated in Laravel 5 (original Joomla component https://github.com/salesagility/SuiteCRM-Portal-Joomla)
+Projet work with EGO SuiteCRM - Ecole Gestion Organisation  based on SuiteCRM
 
 # Requirements
 PHP >= 5.4
